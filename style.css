@@ -1,0 +1,208 @@
+.bimg{
+    background-image: url(./Images/table.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    
+}
+.text .border{
+    background-color: rgba(214, 83, 8, 0.778);
+    color: white;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    font-weight: 700;
+}
+
+.para{
+    text-align: center;
+    padding: 50px;
+    font-style: oblique;
+
+}
+
+.bimg0{
+    background-image: url(./Images/samos-997876_1920.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+
+.text0{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    
+}
+.text0 .border0{
+    /* background-color: rgb(214, 159, 8); */
+    color: aliceblue;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    font-weight: 700;
+}
+
+.para0{
+    text-align: center;
+    padding: 50px;
+    font-style: oblique;
+
+}
+
+.bimg1{
+    background-image: url(./Images/library-g7be8b30b5_1920.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+
+.text1 {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    
+}
+.text1 .border1{
+    /* background-color: rgb(214, 159, 8); */
+    color: aliceblue;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    font-weight: 700;
+}
+
+.para1{
+    text-align: center;
+    padding: 50px;
+    font-style: oblique;
+
+}
+
+.bimg2{
+    background-image: url(./Images/work.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+
+.text2 {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    
+}
+.text2 .border2{
+    /* background-color: rgb(214, 159, 8); */
+    color: aliceblue;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    font-weight: 700;
+}
+
+.para2{
+    text-align: center;
+    padding: 50px;
+    font-style: oblique;
+
+}
+
+
+.bimg3{
+    background-image: url(./Images/fast.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+
+.text3 {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    
+}
+.text3 .border3{
+    /* background-color: rgb(214, 159, 8); */
+    color: aliceblue;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    font-weight: 700;
+}
+
+.para3{
+    text-align: center;
+    padding: 50px;
+    font-style: oblique;
+
+}
+
+.bimg4{
+    background-image: url(./Images/pen\ cofee.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+.text4{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
+
+.text4 .border4{
+    background-color: rgba(214, 83, 8, 0.778);
+    color: white;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    font-weight: 700;
+}
